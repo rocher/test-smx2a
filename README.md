@@ -6,5 +6,5 @@
 
 |    | Alumne/a      |           | GitHub                                         |                                              | Projecte                                     |
 |:--:|:--------------|:----------|:-----------------------------------------------|:---------------------------------------------|:---------------------------------------------|
-| #  | **_Cognoms_** | **_Nom_** | **_Dashboard_**                                | **_Web_**                                    | **_Web_**                                    |
-| 1  | Rocher Muñoz  | Francesc  | [github.com/rocher](https://github.com/rocher) | [rocher.github.io](https://rocher.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
+| 1  | Palahi Morilla      | Jan      | *janpalahi-commits*  | *Dashbohttps://github.com/janpalahi-commitsard* | *Web* | *Web*    |
+| 2  | Rocher Muñoz  | Francesc  | [github.com/rocher](https://github.com/rocher) | [rocher.github.io](https://rocher.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
