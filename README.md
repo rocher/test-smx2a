@@ -12,3 +12,4 @@
 | 3  | Javier Carrera | Alejandro | Alex | [github.com/AJtiger6](https://github.com/AJtiger6) | [AJtiger6.github.io](https://AJtiger6.github.io) |
 | 4  | Palahi Morilla      | Jan      | *janpalahi-commits*  | *Dashbohttps://github.com/janpalahi-commitsard* | *Web* | *Web*    |
 | 5  | Ros Barranca | Evan | espino08saurio-glitch | [github.com/espino08saurio-glitch](https://github.com/espino08saurio-glitch) | | |
+| 5  | Sanchez Muñoz | Pol | polanskihub | [github.com/polanskihub](https://github.com/polanskihub) | | |
