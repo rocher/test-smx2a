@@ -16,4 +16,4 @@
 | 7  | Palau Sanabria | Ferran | FePaSa | [github.com/FePaSa](https://github.com/FePaSa) | | |
 | 8  | Bachiller Bosch | Enzo | enbabo | [github.com/enbabo](https://github.com/enbabo) | [enbabo.github.io](https://enbabo.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
 | 9  | Ruiz Martinez | Izan | Spawnkill14 | [github.com/Spawnkill14](https://github.com/Spawnkill14) | | |
-| 9  | Daniil Avtukhov | Daniil | Mhmk000 | [github.com/Mhmk000](https://github.com/Mhmk000) | | |
+| 10  | Daniil Avtukhov | Daniil | Mhmk000 | [github.com/Mhmk000](https://github.com/Mhmk000) | | |
