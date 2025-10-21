@@ -15,4 +15,4 @@
 | 6  | Sanchez Muñoz | Pol | polanskihub | [github.com/polanskihub](https://github.com/polanskihub) | | |
 | 7  | Palau Sanabria | Ferran | FePaSa | [github.com/FePaSa](https://github.com/FePaSa) | [fepasa.github.io](https://fepasa.github.io) | |
 | 8  | Bachiller Bosch | Enzo | enbabo | [github.com/enbabo](https://github.com/enbabo) | [enbabo.github.io](https://enbabo.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
-| 9  | Ruiz Martinez | Izan | Spawnkill14 | [github.com/Spawnkill14](https://github.com/Spawnkill14) | | |
+| 9  | Ruiz Martinez | Izan | Spawnkill14 | [github.com/Spawnkill14](https://github.com/Spawnkill14) | [Spawnkill14.github.io] | |
