@@ -12,7 +12,12 @@
 | 3  | Javier Carrera | Alejandro | Alex | [github.com/AJtiger6](https://github.com/AJtiger6) | [AJtiger6.github.io](https://AJtiger6.github.io) |
 | 4  | Palahi Morilla      | Jan      |  janpalahi-commits  | [janpalahi-commits](https://github.com/janpalahi-commits)  | [janpalahi-commits.github.io](https://janpalahi-commits.github.io) | [LA FUSTA](http://lafusta.endinahosting.com)    |
 | 5  | Ros Barranca | Evan | espino08saurio-glitch | [github.com/espino08saurio-glitch](https://github.com/espino08saurio-glitch) | | |
+<<<<<<< HEAD
+| 6  | Sanchez Muñoz | Pol | polanskihub | [github.com/polanskihub](https://github.com/polanskihub) | [github.com/polanskihub.github.io](https://polanskihub.github.io) | |
+| 7  | Palau Sanabria | Ferran | FePaSa | [github.com/FePaSa](https://github.com/FePaSa) | | |
+=======
 | 6  | Sanchez Muñoz | Pol | polanskihub | [github.com/polanskihub](https://github.com/polanskihub) | | |
 | 7  | Palau Sanabria | Ferran | FePaSa | [github.com/FePaSa](https://github.com/FePaSa) | [fepasa.github.io](https://fepasa.github.io) | |
+>>>>>>> 9a0bcdb7f180dae9526d78c52aee89e3c68168ef
 | 8  | Bachiller Bosch | Enzo | enbabo | [github.com/enbabo](https://github.com/enbabo) | [enbabo.github.io](https://enbabo.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
 | 9  | Ruiz Martinez | Izan | Spawnkill14 | [github.com/Spawnkill14](https://github.com/Spawnkill14) | | |
